@@ -1,0 +1,8 @@
+{
+    "name": "zombieLover",
+    "version": "1.0.0",
+    "main": "indix.js",
+    "scripts": {
+        "start": "electron ."
+    }
+}
